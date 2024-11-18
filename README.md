@@ -3,15 +3,13 @@
 <h2> Bem vindo ao meu perfil GitHub 👋 </h2>
 
 <div>
- <div class="Spongerbob" ><img src="Spongerbob%20Programming.gif" width="1000" height="400" alt="Descrição do GIF"></div>         
-</div>
-
-
-## status do meu progresso
-<div>
+ <div class="Spongerbob" ><img src="Spongerbob%20Programming.gif" width="2000" height="500" alt="Descrição do GIF"></div>  
+<div class="status">
 <a href="https://github.com/gustavodovale">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodovale&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavodovale&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+                                                                                                                       
 </div>
 
 ## Habilidades 
