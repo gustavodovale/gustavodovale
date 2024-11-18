@@ -1,8 +1,11 @@
-# Olá, me chamo gustavodovale!
-## Bem vindo ao meu perfil GitHub 👋
+<h1> Olá, me chamo gustavodovale! </h1>
 
-## bob esponja programando
-<img src="Spongerbob%20Programming.gif" width="1000" height="400" alt="Descrição do GIF">
+<h2> Bem vindo ao meu perfil GitHub 👋 </h2>
+
+<div>
+ <div class="Spongerbob" ><img src="Spongerbob%20Programming.gif" width="1000" height="400" alt="Descrição do GIF"></div>         
+</div>
+
 
 ## status do meu progresso
 <div>
@@ -27,14 +30,4 @@
 <a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 
