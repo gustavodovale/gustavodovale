@@ -6,9 +6,9 @@
 <table border="0" cellspacing="0" cellpadding="0" >
   <tr>
     <td width="700px">
-     <div margin-top="1px">
+     <div>
       <div class="Habilidades" align="center">
-      <h3 align="center" >Habilidades:</h2>
+      <h3 align="center" >Habilidades:</h1>
      <img class="icon_Java" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70"/> <img class="icon_Linux" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" height="70"/>  <img class="icon_Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="70" height="70" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="70" height="70" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="70" height="70" />
      </div>
       <div class="estudando" align="center">
