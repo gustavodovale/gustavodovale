@@ -1,9 +1,6 @@
 # Olá, me chamo gustavodovale!
 ## Bem vindo ao meu perfil GitHub 👋
 
-
-**gustavodovale/gustavodovale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <img src="Spongerbob%20Programming.gif" width="1000" height="400" alt="Descrição do GIF">
 
 <div>
