@@ -1,8 +1,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=55&center=true&vCenter=true&width=600&height=70&duration=2000&lines=;Olá+bem+vindo+👋;ao+meu+GitHub+!;&color=32CD32" /> 
-</h1>
-<h2> Bem vindo ao meu perfil GitHub 👋 </h2>
-                                                                                                                
+</h1>                                                                                                
 <table border="0" cellspacing="0" cellpadding="0" >
   <tr>
     <td width="700px">
