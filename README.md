@@ -23,7 +23,7 @@
       </div>
     </td>
     <td>
-      <img src="Spongerbob%20Programming.gif" alt="drawing" width="400" height="300" />
+      <img src="Sponge%20bob%20v2.gif" alt="drawing" width="400" height="300" />
     </td>
   </tr>
 </table>
