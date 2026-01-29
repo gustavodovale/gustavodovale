@@ -20,8 +20,7 @@
         </div>
         <!-- Estudando -->
         <div class="estudando">
-          <h3>Estudando no Momento:</h3>
-            
+          <h3>Estudando no Momento:</h3>  
         </div>
       </div>
     </td>
