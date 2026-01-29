@@ -8,14 +8,14 @@
       <div align="center">
         <!-- Habilidades -->
         <div class="Habilidades">
-          <h3>Habilidades:</h3>
+          <h3>Ferramentas que conheço:</h3>
           <img class="icon_Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="70" height="70" />
           <img  class="icon_Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="70" height="70" />
           <img  class="icon_Css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="70" height="70" />
         </div>
         <!-- Estudando -->
         <div class="estudando">
-          <h3>Conhecimento:</h3>
+          <h3>Estudando no Momento:</h3>
             <img  class="icon_Ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="70" height="70" />
             <img class="icon_Java" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70" />
           <img class="icon_Mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="70" height="70" />
