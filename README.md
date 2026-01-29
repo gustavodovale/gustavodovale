@@ -22,6 +22,12 @@
         <div class="estudando">
           <h3>Estudando no Momento:</h3>  
         </div>
+          <img  class="icon_Ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="70" height="70" />
+            <img class="icon_Java" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"alt="Spring Boot" width="70" height="70" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg"alt="Apache Spark" width="70" height="70" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"alt="PostgreSQL" width="70" height="70" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="70" height="70"/>
       </div>
     </td>
     <td>
