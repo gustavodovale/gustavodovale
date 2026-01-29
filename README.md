@@ -26,7 +26,6 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"alt="Spring Boot" width="70" height="70" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg"alt="Apache Spark" width="70" height="70" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"alt="PostgreSQL" width="70" height="70" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg"alt="Power BI" width="70" height="70" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="70" height="70"/>
         </div>
       </div>
