@@ -4,7 +4,7 @@
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="700px">
+    <td width="700px" valign="top">
       <div align="center">
         <!-- Habilidades -->
         <div class="Habilidades">
